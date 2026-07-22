@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a32"
+  },
+  "gameCodeId": "GC001",
+  "gameId": "G001",
+  "gameTitle": "EA Sports FC 26",
+  "platform": "Steam",
+  "gameCode": "FC26-AB12-CD34-EF56",
+  "region": "Global",
+  "price": 1990,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a33"
+  },
+  "gameCodeId": "GC002",
+  "gameId": "G002",
+  "gameTitle": "Minecraft",
+  "platform": "Microsoft Store",
+  "gameCode": "MCFT-XY98-ZW76-QR54",
+  "region": "Global",
+  "price": 890,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a34"
+  },
+  "gameCodeId": "GC003",
+  "gameId": "G003",
+  "gameTitle": "Grand Theft Auto V",
+  "platform": "Rockstar",
+  "gameCode": "GTA5-AS12-DF34-GH56",
+  "region": "Global",
+  "price": 750,
+  "status": "Sold",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a35"
+  },
+  "gameCodeId": "GC004",
+  "gameId": "G004",
+  "gameTitle": "Cyberpunk 2077",
+  "platform": "Steam",
+  "gameCode": "CP77-QW12-ER34-TY56",
+  "region": "Global",
+  "price": 1290,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a36"
+  },
+  "gameCodeId": "GC005",
+  "gameId": "G005",
+  "gameTitle": "Elden Ring",
+  "platform": "Steam",
+  "gameCode": "ERNG-UI12-OP34-AS56",
+  "region": "Global",
+  "price": 1590,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a37"
+  },
+  "gameCodeId": "GC006",
+  "gameId": "G006",
+  "gameTitle": "Red Dead Redemption 2",
+  "platform": "Rockstar",
+  "gameCode": "RDR2-ZX12-CV34-BN56",
+  "region": "Global",
+  "price": 1390,
+  "status": "Sold",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a38"
+  },
+  "gameCodeId": "GC007",
+  "gameId": "G007",
+  "gameTitle": "Forza Horizon 5",
+  "platform": "Xbox",
+  "gameCode": "FRZ5-HJ12-KL34-MN56",
+  "region": "Global",
+  "price": 1690,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a39"
+  },
+  "gameCodeId": "GC008",
+  "gameId": "G008",
+  "gameTitle": "Valorant Points",
+  "platform": "Riot",
+  "gameCode": "VPNT-PO12-LK34-IJ56",
+  "region": "SEA",
+  "price": 500,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a3a"
+  },
+  "gameCodeId": "GC009",
+  "gameId": "G009",
+  "gameTitle": "PUBG Battlegrounds",
+  "platform": "Steam",
+  "gameCode": "PUBG-RT12-YU34-IO56",
+  "region": "Global",
+  "price": 450,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a59a3fd87240be877698a3b"
+  },
+  "gameCodeId": "GC010",
+  "gameId": "G010",
+  "gameTitle": "Black Myth Wukong",
+  "platform": "Steam",
+  "gameCode": "BMWK-QA12-WS34-ED56",
+  "region": "Global",
+  "price": 1890,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T00:00:00.000Z"
+  }
+}]
